@@ -1,4 +1,4 @@
-
+OBS Studio for macOS custom Tool: reverb & EQ offers the most advanced OBS Studio for macOS tool, with reverb and EQ. Ideal for professional video editors and content creators.
 
 
 
